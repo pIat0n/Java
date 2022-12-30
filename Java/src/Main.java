@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String[] args){
-
+        System.out.println(is_prime(0));
     }
     public static boolean is_prime(int num){
         int d = 2;
